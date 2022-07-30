@@ -1,0 +1,72 @@
+.fondo {
+        background-color: rgba(224, 224, 211, 0.986);
+        background-size: cover;}
+.header {
+        background-image: url("https://images.unsplash.com/photo-1506377247377-2a5b3b417ebb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80");
+        height: 700px;
+        background-size: cover;
+        font-size: 50px;
+        text-align:center;
+        font-family: "Blackadder ITC";
+        background-repeat: no-repeat;
+        } 
+.descripcion {
+        color: grey;
+        font-family: "Aharoni";}
+.footer {
+        background-size: cover;
+        font-family: "Blackadder ITC";
+        font-size: 50px;
+        text-align:center;} 
+.img__pv {
+        padding: 50px 20px 20px 80px;
+        height: 300px;}    
+.btn__pv {
+        margin: 200px;
+        font-family: "Brush Script MT";
+        font-size: 50px;
+        color: grey;}
+.btn__pv--color {
+                font-size: 35px;
+                font-family: "Brush Script MT";
+                color: grey;}
+.img__vd {
+        padding: 50px 20px 20px 80px;
+        height: 300px;}    
+.btn__vd {
+        margin: 100px;
+        font-family: "Brush Script MT";
+        font-size: 50px;
+        color: grey;}
+.btn__vd--color {
+                font-size: 35px;
+                font-family: "Brush Script MT";
+                color: grey;}
+.img__f {
+        padding: 50px 20px 20px 80px;
+        height: 300px;}         
+.btn__f {
+        margin: 100px;
+        font-family: "Brush Script MT";
+        font-size: 50px;
+        color: grey;}
+.btn__f--color {
+                font-size: 35px;
+                font-family: "Brush Script MT";
+                color: grey;}
+.img__c {
+        padding: 50px 20px 20px 500px;
+        height: 300px;}         
+.btn__c {
+        margin: 400px;
+        font-family: "Brush Script MT";
+        font-size: 50px;
+        color: grey;}
+.btn__c--color {
+                font-size: 35px;
+                font-family: "Brush Script MT";
+                color: grey;}
+.btn__inicio {
+                font-size: 35px;
+                font-family: "Brush Script MT";
+                color: grey;}
