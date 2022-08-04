@@ -1,0 +1,19 @@
+{
+  "name": "proyecto-vino",
+  "version": "1.0.0",
+  "description": "sass",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Agus-Orzechowski/proyecto-vinos.git"
+  },
+  "author": "agus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Agus-Orzechowski/proyecto-vinos/issues"
+  },
+  "homepage": "https://github.com/Agus-Orzechowski/proyecto-vinos#readme"
+}
